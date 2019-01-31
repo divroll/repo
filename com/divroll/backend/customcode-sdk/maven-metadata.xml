@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.divroll.backend</groupId>
+  <artifactId>customcode-sdk</artifactId>
+  <versioning>
+    <versions>
+      <version>0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190131090301</lastUpdated>
+  </versioning>
+</metadata>
