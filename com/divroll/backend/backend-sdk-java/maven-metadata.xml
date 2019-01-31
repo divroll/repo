@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.divroll.backend</groupId>
+  <artifactId>backend-sdk-java</artifactId>
+  <versioning>
+    <versions>
+      <version>0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190131012211</lastUpdated>
+  </versioning>
+</metadata>
